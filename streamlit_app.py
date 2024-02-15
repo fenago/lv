@@ -3,7 +3,7 @@ from langchain.llms import OpenAI
 
 st.image("https://lwfiles.mycourse.app/65a6a0bb6e5c564383a8b347-public/4ef4ee108068d6f94365c6d2360b3a66.png")
 
-st.title('🦜🔗 Learning Voyage - Prompt Engineering App')
+st.title('🦜🔗 Prompt Engineering App')
 
 openai_api_key = st.sidebar.text_input('OpenAI API Key')
 
